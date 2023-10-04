@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Formulas
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Formulas\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ d\ k
+comment1.target=double\ findArithmeticSeriesSum(double,\ double,\ int)
+comment2.params=a\ r\ k
+comment2.target=double\ findGeometricSeriesSum(double,\ double,\ int)
+comment3.params=sides
+comment3.target=int\ rollDie(int)
+numComments=4
